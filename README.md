@@ -21,9 +21,7 @@ Some challenges which were faced while producing this project was implementing d
 - weather and distance all displayed in the palm of the hand for easy planning.
 
 ## Links
-[Github Repo:https://github.com/inidhi99/project-1](https://github.com/inidhi99/project-1)
-
-[Launched page:https://inidhi99.github.io/project-1/](https://inidhi99.github.io/project-1/)
+Deployment Page: https://eedouard28.github.io/ieats/
 
 ![Phone](/assets/images/Readme%20images/Website.png)
 
